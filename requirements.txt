@@ -1,0 +1,13 @@
+certifi==2020.12.5
+click==7.1.2
+dlib @ file:///D:/bld/dlib_1607165240716/work
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy @ file:///D:/bld/numpy_1604946136447/work
+opencv-python==4.4.0.46
+Pillow==8.0.1
+pygame==2.0.0
+scipy==1.5.4
+six==1.15.0
+transitions==0.8.5
+wincertstore==0.2
